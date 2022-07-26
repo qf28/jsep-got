@@ -1,0 +1,5 @@
+Fine-grained Analysis of Dependency Cycles among Classes
+
+Qiong Feng, Ran Mo*
+
+This paper conducts an empirical study of dependency cycles’ evolution at the commit level and shows that 28.4% of dependency cycles have been aggregating, breaking, newly-forming and disappearing. This paper reveals that dependency cycles’ aggregation and breaking are highly related to cycles' topological structure. While star-shaped and circle-shaped dependency cycles tend to preserve the original shape during evolution, more than 76% of circle-shaped and star-shaped dependency cycles’ breaking without deleting existing files followed several recurring patterns shown in the figure.  
